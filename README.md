@@ -17,5 +17,5 @@ Border Case (边缘数据) :
 3. n是1
 4. n比array所有数字大
 5. array是空的
-   i. asdasd
+   - asdasd
 6. n是空的
