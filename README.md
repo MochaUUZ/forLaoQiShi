@@ -25,7 +25,7 @@ Border Case（边缘数据）:
 ```
 我care 到的case：1, 3, 4
 <br/>我没care到的case：2, 5, 6 
-p.s 不是我懒哦，是这3个如果要care到就要throw exceptions（报错），我觉得没必要。
+p.s 不是我懒哦，是这3个如果要care到就要throw exceptions（报错），我觉得没必要。啊，但是面试的话要哦
 
 Algorithm（算法）
 ```
