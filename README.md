@@ -24,7 +24,7 @@ Border Case（边缘数据）:
 6. n是空的
 ```
 我care 到的case：1, 3, 4
-- 我没care到的border case：2, 5, 6 
+\n我没care到的border case：2, 5, 6 
 p.s 不是我懒哦，是这3个如果要care到就要throw exceptions（报错），我觉得没必要。
 
 Algorithm（算法）
