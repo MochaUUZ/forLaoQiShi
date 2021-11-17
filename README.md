@@ -16,5 +16,6 @@ Border Case (边缘数据) :
 2. n是零
 3. n是1
 4. n比array所有数字大
-         5. array是空的
-6. n是空的
+5. array是空的
+|   i.asda
+7. n是空的
