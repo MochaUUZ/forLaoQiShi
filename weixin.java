@@ -17,9 +17,10 @@ public class weixin{
      */
     public static void main(String[] args)
     {
+        // 1999888234
         // Test case 这里可以改变不同的数据
-        int[] input = {2, 4, 8, 3, 6, 9};
-        int n = 3;
+        int[] input = {1,9,9,9,8,8,8,4,2,3};
+        int n = 100;
         ////////////////////////////////////
         int[] output = new int[input.length];
 
