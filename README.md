@@ -4,7 +4,7 @@
 
 ![alt text](img/weChat_image.jpg "大致的问题")
 
-根据这个图片，只是属于重新排列array类型的题目。
+根据这个图片，这是属于重新排列array类型的题目。
 基本上，排列array的题目，只要搞懂排列规律还有知道border case会是什么样的离答案就不远了。
 
 这个问题的排列规律有二：
@@ -23,6 +23,10 @@ Border Case（边缘数据）:
    - asdasd
 6. n是空的
 ```
+我care 到的case：1, 3, 4
+我没care到的border case：2, 5, 6 
+p.s 不是我懒哦，是这3个如果要care到就要throw exceptions（报错），我觉得没必要。
+
 Algorithm（算法）
 ```
 1. 找到此array里最小的数字
